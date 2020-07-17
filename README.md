@@ -1,4 +1,3 @@
 # Hola-Mundo
 
-
-Esta es mi primera edicion desde Geekshubs academy
+# Esta es mi primera edicion desde Geekshubs academy
